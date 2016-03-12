@@ -8,3 +8,4 @@ Please follow these steps
 4- in unbuntu copy file "filetypes.Ring.conf" to folder "/home/USERNAME/filetypes.Ring.conf"
 
 * I believe this file can work under windows but It's not yet tested
+* You can run your files by pressing F5 button
